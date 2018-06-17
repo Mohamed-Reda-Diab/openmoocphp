@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/../openmooc/.idea/openmooc.iml" filepath="$PROJECT_DIR$/../openmooc/.idea/openmooc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/openmoocphp.iml" filepath="$PROJECT_DIR$/.idea/openmoocphp.iml" />
-    </modules>
-  </component>
-</project>
