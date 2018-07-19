@@ -1,10 +1,8 @@
 <?php
-/**define all config constants*/
 
-/**
- * DB constant
- */
-define('SERVER','localhost');
-define('DBNAME','');
+ define('server','localhost');
 define('DBUSER','root');
-define('DDPASS','');
+define('DBNAME','openmooc');
+define('DBPASS','');
+
+
